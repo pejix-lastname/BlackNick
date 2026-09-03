@@ -1,5 +1,21 @@
 # BlackNick
 
+```text
+┌─────────────┐
+│ J           │
+│ ♠           │
+│             │
+│     ♠       │
+│    ╱│╲      │
+│   ╱ │ ╲     │
+│  ╱  │  ╲    │
+│     J       │
+│             │
+│           ♠ │
+│           J │
+└─────────────┘
+```
+
 **BlackNick** è un gioco di Blackjack per browser realizzato come applicazione web monolitica in un singolo file HTML.
 
 La versione documentata da questo README è **BN V1.0**.
